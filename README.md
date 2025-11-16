@@ -170,10 +170,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&fontSize=100&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn&section=footer&reversal=false&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&textBg=false&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=25&animation=fadeIn&section=footer&reversal=false&descAlign=50"/>
 </p>
 
-<p align="center">
+<p width="auto">
   🌟 Thanks for visiting! Let's build amazing mobile experiences together! 🚀
 </p>
 
