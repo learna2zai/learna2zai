@@ -17,7 +17,7 @@ Passionate  about crafting sleek, high-performance mobile apps that blend innova
 ---
 
 - 🔧 **Professional Skills**: Specializing in Mobile **`SwiftUI(Swift)`**, **`Flutter(Dart)`**, **`Expo(React Native)`** &  **`Angular`**.
-- 🌐 **Freelancer**: Delivering high-quality, client-focused projects with a commitment to excellence.
+- 🌐 **Solo Practice**: Delivering high-quality, client-focused projects with a commitment to excellence.
 - 💡 **Driven by Curiosity**: Constantly learning and adapting to new challenges in the ever-evolving tech world.
 - 🎓 **Learning Journey**: Aspiring to master **`Agentic AI`** and **`Backend Development`** for innovative solutions.
 
